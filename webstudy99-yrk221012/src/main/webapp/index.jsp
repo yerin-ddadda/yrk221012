@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-index 김예린
+index 김예린		아이유2
 </div>
 </body>
 </html>
